@@ -1,8 +1,6 @@
 # Learn more https://docs.github.com/en/get-started/getting-started-with-git/ignoring-files
 
 # Ignorar carpetas específicas
-app/
-assets/
 
 # Ignorar dependencias
 node_modules/
